@@ -1,0 +1,11 @@
+body #pro-details .single-pro-details {
+  /* width: 50%; */
+  /* border: 1px solid black; */
+  padding: 25px 20px;
+}
+
+#pro-details .single-pro-img {
+  /* width: 40%; */
+  padding: 25px 25px;
+  /* border: 1px solid black; */
+}
